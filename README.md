@@ -18,7 +18,6 @@
 - `images/`: the images for this README file
 - `datasets/`: datasets that are used in this implementation
 - `saves/`: pre-calculated proxy features and time series
-  - `saves/temp/`: folder for saving temporary calculations
   - `saves/models/`: saved finetuned benchmark model
 
 ## Prerequisites and usage
